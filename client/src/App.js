@@ -29,7 +29,7 @@ const App = () => {
               <Header>
                 <Routes>
 
-                  {/* <Route exact   path="/" element={<Home />} /> */}
+                  <Route exact   path="/" element={<CreateProduct />} />
                   <Route exact   path="/create-product" element={<CreateProduct />} />
                   <Route exact   path="/verify-product" element={<VerifyProductPage />} />
                   <Route exact   path="/update-product" element={<UpdateProductPage />} />
