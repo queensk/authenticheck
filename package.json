@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@chainlink/contracts": "^0.5.1",
+    "@openzeppelin/contracts": "^4.7.3",
+    "create-next-app": "^14.0.4",
+    "truffle": "^5.11.5"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "dotenv": "^16.0.3",
+    "truffle-plugin-verify": "^0.5.31"
+  }
+}
